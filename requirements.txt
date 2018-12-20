@@ -1,0 +1,4 @@
+django~=2.1.0
+pillow
+django-disqus
+django-froala-editor
